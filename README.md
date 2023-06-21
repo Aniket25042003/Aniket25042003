@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aniket25042003
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Language Learning
+- 👋 Hi, I’m @Aniket
+- 👀 I’m interested in AI and Machine Learning
+- 🌱 I’m currently learning Python Libraries
+- 💞️ I’m looking to collaborate on learning and creating predictive models
 - 📫 How to reach me aniketpatel2003@icloud.com
 
 <!---
