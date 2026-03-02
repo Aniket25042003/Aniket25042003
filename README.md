@@ -206,9 +206,9 @@ My research focuses on fairness, scalability, and hardware-aware AI optimization
 
 # 📊 GitHub Stats
 
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket25042003\&show_icons=true\&theme=tokyonight)
+![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket25042003&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket25042003\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket25042003&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aniket25042003\&theme=tokyonight)
 
