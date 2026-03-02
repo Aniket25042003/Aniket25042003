@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Aniket Patel
 
-🎓 Computer Science @ Ashland University (GPA: 3.8/4.0)
-🤖 AI Systems Engineer | 🌐 Full-Stack Architect | ☁️ Cloud & MLOps Engineer
+<p align="center">
+🎓 Computer Science @ Ashland University (GPA: 3.8/4.0) <br>
+🤖 AI Systems Engineer | 🌐 Full-Stack Architect | ☁️ Cloud & MLOps Engineer <br>
 📍 Mansfield, OH
+</p>
 
 I build **production-grade AI systems** end-to-end from model training and hardware optimization to distributed cloud backends and scalable frontends.
 
